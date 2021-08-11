@@ -1,0 +1,2 @@
+wanderbot
+-DCATKIN_DEVEL_PREFIX=/home/cjlotto/git_clone/Robot-Simulator/b_Wanderbot/wanderbot_ws/devel -DCMAKE_INSTALL_PREFIX=/home/cjlotto/git_clone/Robot-Simulator/b_Wanderbot/wanderbot_ws/install -G Unix Makefiles

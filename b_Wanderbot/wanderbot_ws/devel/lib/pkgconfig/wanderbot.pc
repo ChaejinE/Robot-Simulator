@@ -1,0 +1,8 @@
+prefix=/home/cjlotto/git_clone/Robot-Simulator/b_Wanderbot/wanderbot_ws/devel
+
+Name: wanderbot
+Description: Description of wanderbot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
