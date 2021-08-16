@@ -1,0 +1,8 @@
+prefix=/home/cjlotto/git_clone/Robot-Simulator/c_TeleopBot/catkin_ws/devel
+
+Name: teleopbot
+Description: Description of teleopbot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
